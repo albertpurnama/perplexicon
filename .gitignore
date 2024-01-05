@@ -1,0 +1,10 @@
+.venv
+.env
+.seed-knowledge
+
+forms/
+screenshots/
+test/
+assets
+
+.DS_Store
